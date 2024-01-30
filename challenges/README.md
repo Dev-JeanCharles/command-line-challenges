@@ -4,7 +4,6 @@
 tar xvf challenges.tar.gz challenges/ 
 ```
 
-
 ## Comando CD - P2
 
 ```sh
@@ -64,3 +63,8 @@ rm empty.txt
 cat > empty.txt 
 ```
 
+## Comando expand - P12
+
+```sh
+expand > empty.txt  
+```
