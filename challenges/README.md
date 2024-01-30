@@ -261,3 +261,9 @@ find . -maxdepth 1 -type f | wc -l
 tree -d
 ```
 
+## Comando rm - P45
+
+```sh
+rm ./bunch_of_files/*deleteme*
+```
+
