@@ -190,3 +190,9 @@ diff greeting1.txt greeting2.txt
 echo "Hello" && sleep 5 && echo "world" 
 ```
 
+## Comando dd - P33
+
+```sh
+dd if=/dev/zero of=nullbytes count=1 bs=1M 
+```
+
