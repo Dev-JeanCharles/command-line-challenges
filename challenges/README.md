@@ -178,3 +178,9 @@ head -25 people.csv
 tail -n 25 people.csv
 ```
 
+## Comando diff - P31
+
+```sh
+diff greeting1.txt greeting2.txt 
+```
+
