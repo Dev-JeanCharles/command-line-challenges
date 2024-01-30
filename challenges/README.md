@@ -58,3 +58,9 @@ touch empty.txt
 rm empty.txt
 ```
 
+## Comando cat - P11
+
+```sh
+cat > empty.txt 
+```
+
