@@ -279,3 +279,8 @@ nano bunch_of_files/file719.rand
 csvformat -D '|' people.csv > people_pipe.csv. 
 ```
 
+## Comando fdupes - P48
+
+```sh
+fdupes bunch_of_files/ 
+```
