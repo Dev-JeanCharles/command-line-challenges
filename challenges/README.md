@@ -205,12 +205,16 @@ head -c 2M /dev/urandom > random
 ## Comando wc - P35
 
 ```sh
- c -l README.md 
+wc -l README.md 
 ```
 
 ## Comando tac - P36
 
 ```sh
- tac README.md  
+tac README.md  
 ```
 
+## Comando awk - P37
+```sh
+awk -F, '{print $2}' people.csv 
+```
