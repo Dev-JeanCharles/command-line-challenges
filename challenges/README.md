@@ -93,3 +93,9 @@ cat hello_copy.txt hello.txt
 cat hello_copy.txt hello.txt > 2_hellos.txt
 ```
 
+## Comando pwd - P17
+
+```sh
+pwd
+```
+
