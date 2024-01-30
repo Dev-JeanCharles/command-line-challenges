@@ -226,3 +226,9 @@ awk -F, '{print $2}' people.csv
 awk -F, '{print $2}' people.csv | sort -u | wc -l
 ```
 
+## Comando awk - P39
+
+```sh
+awk -F, 'NR>1{print $2}' people.csv | sort -u | wc -l
+```
+
