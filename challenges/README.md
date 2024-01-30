@@ -99,3 +99,9 @@ cat hello_copy.txt hello.txt > 2_hellos.txt
 pwd
 ```
 
+## Comando ls - P18
+
+```sh
+ls -l
+```
+
