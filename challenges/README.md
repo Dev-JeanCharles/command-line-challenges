@@ -28,3 +28,9 @@ mkdir "foo"
 mkdir -p foo/bar/1/2/3 
 ```
 
+## Comando rm - P6
+
+```sh
+rm -r foo/ 
+```
+
