@@ -104,4 +104,7 @@ pwd
 ```sh
 ls -l
 ```
-
+## Comando echo - P19
+```sh
+echo "Hello Restrict" >> restricted.txt
+```
