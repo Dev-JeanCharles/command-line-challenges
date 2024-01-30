@@ -46,3 +46,9 @@ echo "Hello World"
 touch hello.txt && echo "Hello World" > hello.txt 
 ```
 
+## Comando touch - P9
+
+```sh
+touch empty.txt
+```
+
