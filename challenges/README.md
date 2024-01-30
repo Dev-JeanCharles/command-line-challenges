@@ -1,3 +1,10 @@
+## Comando tar - P1
+
+```sh
+tar xvf challenges.tar.gz challenges/ 
+```
+
+
 ## Comando CD - P2
 
 ```sh
@@ -10,3 +17,7 @@ cd challenges/
 ls 
 ```
 
+## Comando mkdir - P4
+```sh
+mkdir "foo"  
+```
