@@ -153,3 +153,10 @@ ps
 ```sh
 lscpu
 ```
+
+## Comando uname - P27
+
+```sh
+uname -r
+```
+
