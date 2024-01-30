@@ -136,3 +136,9 @@ chmod 777 compile_me.c || ./compile_me.c
 ./redirect | tee output.txt
 ```
 
+## Comando date - P24
+
+```sh
+date
+```
+
