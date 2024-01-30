@@ -249,3 +249,9 @@ awk -F, 'NR>1{print $2}' people.csv | sort -u | wc -l
 awk -F, '/Josiah/ {print $4}' people.csv | wc -l
 ```
 
+## Comando find - P43
+
+```sh
+find . -maxdepth 1 -type f | wc -l
+```
+
