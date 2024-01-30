@@ -123,3 +123,10 @@ echo "Hello Restrict" >> restricted.txt
 chmod 777 challenge_20
 ./challenge_20
 ```
+
+## Comando tee - P22
+
+```sh
+./redirect | tee output.txt
+```
+
