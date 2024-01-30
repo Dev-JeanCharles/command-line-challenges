@@ -255,3 +255,9 @@ awk -F, '/Josiah/ {print $4}' people.csv | wc -l
 find . -maxdepth 1 -type f | wc -l
 ```
 
+## Comando tree - P44
+
+```sh
+tree -d
+```
+
