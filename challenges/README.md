@@ -196,3 +196,9 @@ echo "Hello" && sleep 5 && echo "world"
 dd if=/dev/zero of=nullbytes count=1 bs=1M 
 ```
 
+## Comando head - P34
+
+```sh
+head -c 2M /dev/urandom > random 
+```
+
