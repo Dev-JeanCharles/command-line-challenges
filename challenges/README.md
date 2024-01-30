@@ -105,6 +105,15 @@ pwd
 ls -l
 ```
 ## Comando echo - P19
+
 ```sh
 echo "Hello Restrict" >> restricted.txt
 ```
+
+
+## Comando ./ - P20
+
+```sh
+./hello_executable
+```
+
