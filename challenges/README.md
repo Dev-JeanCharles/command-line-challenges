@@ -202,3 +202,9 @@ dd if=/dev/zero of=nullbytes count=1 bs=1M
 head -c 2M /dev/urandom > random 
 ```
 
+## Comando wc - P35
+
+```sh
+ wc -l README.md 
+```
+
