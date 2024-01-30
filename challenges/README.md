@@ -1,10 +1,10 @@
-## Comando CD
+## Comando CD - P2
 
 ```sh
 cd challenges/ 
 ```
 
-## Comando ls
+## Comando ls - P3
 
 ```sh
 ls 
