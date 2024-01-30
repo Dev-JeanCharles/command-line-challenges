@@ -273,3 +273,9 @@ rm ./bunch_of_files/*deleteme*
 nano bunch_of_files/file719.rand 
 ```
 
+## Comando csvformat - P47
+
+```sh
+csvformat -D '|' people.csv > people_pipe.csv. 
+```
+
