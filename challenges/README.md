@@ -34,3 +34,9 @@ mkdir -p foo/bar/1/2/3
 rm -r foo/ 
 ```
 
+## Comando echo - P7
+
+```sh
+echo "Hello World" 
+```
+
