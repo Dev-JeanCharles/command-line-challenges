@@ -21,3 +21,10 @@ ls
 ```sh
 mkdir "foo"  
 ```
+
+## Comando mkdir - P5
+
+```sh
+mkdir -p foo/bar/1/2/3 
+```
+
