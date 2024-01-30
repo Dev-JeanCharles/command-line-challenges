@@ -205,6 +205,12 @@ head -c 2M /dev/urandom > random
 ## Comando wc - P35
 
 ```sh
- wc -l README.md 
+ c -l README.md 
+```
+
+## Comando tac - P36
+
+```sh
+ tac README.md  
 ```
 
