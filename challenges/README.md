@@ -172,4 +172,9 @@ cat bunch_of_files/* | grep "You found the needle in the haystack!"
 head -25 people.csv
 ```
 
+## Comando tail - P30
+
+```sh
+tail -n 25 people.csv
+```
 
