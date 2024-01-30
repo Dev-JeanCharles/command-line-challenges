@@ -68,3 +68,9 @@ cat > empty.txt
 ```sh
 expand > empty.txt  
 ```
+
+## Comando cp - P13
+
+```sh
+cp hello.txt goodbye.txt
+```
