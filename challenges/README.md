@@ -267,3 +267,9 @@ tree -d
 rm ./bunch_of_files/*deleteme*
 ```
 
+## Comando nano - P46
+
+```sh
+nano bunch_of_files/file719.rand 
+```
+
