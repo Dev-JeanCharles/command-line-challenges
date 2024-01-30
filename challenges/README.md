@@ -142,3 +142,9 @@ chmod 777 compile_me.c || ./compile_me.c
 date
 ```
 
+## Comando ps - P25
+
+```sh
+ps
+```
+
