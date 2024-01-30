@@ -296,3 +296,9 @@ alias a='./1.sh'
 a
 ```
 
+## Comando touch, ls - P50
+
+```sh
+touch {a..c}-{1..3}.txt
+ls -l {a..c}-{1..3}.txt
+```
