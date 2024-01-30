@@ -40,3 +40,9 @@ rm -r foo/
 echo "Hello World" 
 ```
 
+## Comando touch - P8
+
+```sh
+touch hello.txt && echo "Hello World" > hello.txt 
+```
+
