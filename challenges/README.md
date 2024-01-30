@@ -215,6 +215,14 @@ tac README.md
 ```
 
 ## Comando awk - P37
+
 ```sh
 awk -F, '{print $2}' people.csv 
 ```
+
+## Comando awk - P38
+
+```sh
+awk -F, '{print $2}' people.csv | sort -u | wc -l
+```
+
