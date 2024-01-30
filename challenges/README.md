@@ -160,3 +160,11 @@ lscpu
 uname -r
 ```
 
+## Comando grep - P28
+
+```sh
+cat bunch_of_files/* | grep "You found the needle in the haystack!"
+```
+
+
+
