@@ -74,3 +74,10 @@ expand > empty.txt
 ```sh
 cp hello.txt goodbye.txt
 ```
+
+## Comando mv - P14
+
+```sh
+mv goodbye.txt hello_copy.txt
+```
+
