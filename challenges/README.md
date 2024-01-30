@@ -117,3 +117,9 @@ echo "Hello Restrict" >> restricted.txt
 ./hello_executable
 ```
 
+## Comando chmod - P21
+
+```sh
+chmod 777 challenge_20
+./challenge_20
+```
