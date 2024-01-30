@@ -148,3 +148,8 @@ date
 ps
 ```
 
+## Comando lscpu - P26
+
+```sh
+lscpu
+```
