@@ -166,5 +166,10 @@ uname -r
 cat bunch_of_files/* | grep "You found the needle in the haystack!"
 ```
 
+## Comando head - P29
+
+```sh
+head -25 people.csv
+```
 
 
