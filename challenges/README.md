@@ -52,3 +52,9 @@ touch hello.txt && echo "Hello World" > hello.txt
 touch empty.txt
 ```
 
+## Comando rm - P10
+
+```sh
+rm empty.txt
+```
+
