@@ -124,7 +124,13 @@ chmod 777 challenge_20
 ./challenge_20
 ```
 
-## Comando tee - P22
+## Comando chmod - P22
+
+```sh
+chmod 777 compile_me.c || ./compile_me.c 
+```
+
+## Comando tee - P23
 
 ```sh
 ./redirect | tee output.txt
