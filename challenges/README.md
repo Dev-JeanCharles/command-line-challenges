@@ -81,3 +81,9 @@ cp hello.txt goodbye.txt
 mv goodbye.txt hello_copy.txt
 ```
 
+## Comando cat - P15
+
+```sh
+cat hello_copy.txt hello.txt 
+```
+
