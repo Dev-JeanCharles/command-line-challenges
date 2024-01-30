@@ -87,3 +87,9 @@ mv goodbye.txt hello_copy.txt
 cat hello_copy.txt hello.txt 
 ```
 
+## Comando cat - P16
+
+```sh
+cat hello_copy.txt hello.txt > 2_hellos.txt
+```
+
