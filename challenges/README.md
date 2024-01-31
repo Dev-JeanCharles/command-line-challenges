@@ -289,10 +289,6 @@ fdupes bunch_of_files/
 
 ```sh
 touch supercalifragilisticexpialidocious.txt
-touch  1.sh
-nano 1.sh
-chmod +x 1.sh
-alias a='./1.sh'
 a
 ```
 
